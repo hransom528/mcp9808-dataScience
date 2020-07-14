@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to mcp9808-dataScience 👋</h1>
+<h1 align="center">mcp9808-dataScience</h1>
 <p>
   <a href="https://github.com/commanderHR1/mcp9808-dataScience/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
@@ -6,6 +6,11 @@
 </p>
 
 > Analyses MCP9808 temperature data with RPI and Python 
+
+> Guide by Adafruit for setting up MCP9808: https://learn.adafruit.com/adafruit-mcp9808-precision-i2c-temperature-sensor-guide/overview
+
+> Link to Fritzing part files by Adafruit: https://github.com/adafruit/Fritzing-Library/
+
 
 ### 🏠 [Homepage](https://github.com/commanderHR1/mcp9808-dataScience)
 
@@ -30,4 +35,3 @@ Copyright © 2020 [Harris Ransom](https://github.com/commanderHR1).<br />
 This project is [MIT](https://github.com/commanderHR1/mcp9808-dataScience/blob/master/LICENSE) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
