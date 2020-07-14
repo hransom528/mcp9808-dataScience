@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> Analyses MCP9808 temperature data with RPI and Python 
+> Analyzes MCP9808 temperature data with RPI and Python 
 
 > Guide by Adafruit for setting up MCP9808: https://learn.adafruit.com/adafruit-mcp9808-precision-i2c-temperature-sensor-guide/overview
 
