@@ -35,3 +35,4 @@ Copyright © 2020 [Harris Ransom](https://github.com/commanderHR1).<br />
 This project is [MIT](https://github.com/commanderHR1/mcp9808-dataScience/blob/master/LICENSE) licensed.
 
 ***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
